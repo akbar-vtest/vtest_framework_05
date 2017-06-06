@@ -299,7 +299,7 @@ public class vtest
 	         matchFlag = false;
 	      Assert.assertTrue(matchFlag, "Images are not same"); 
 			
-			
+		// this is sample code	
 	}
 	
 	@And("^send report$")
