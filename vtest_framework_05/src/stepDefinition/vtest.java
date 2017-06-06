@@ -51,7 +51,7 @@ public class vtest
 		String login_username;
 		String login_password;
 		
-		//logout ttt
+		//logout tttttt
 		String logout;
 		
 		//signup
