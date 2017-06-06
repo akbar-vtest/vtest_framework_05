@@ -50,7 +50,7 @@ public class vtest
 		String login_username;
 		String login_password;
 		
-		//logout tttttt
+		//logout selenium
 		String logout;
 		
 		//signup
