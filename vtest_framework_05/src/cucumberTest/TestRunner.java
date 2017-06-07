@@ -17,7 +17,7 @@ import cucumber.api.junit.Cucumber;
 	//execute code and run the code 
 public class TestRunner 
 {    
-	
+	//selenium testing 
 	@SuppressWarnings("deprecation")
 	public static void afterScenario() throws Exception 
 	{
