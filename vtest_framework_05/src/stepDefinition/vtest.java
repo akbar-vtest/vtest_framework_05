@@ -77,7 +77,7 @@ public class vtest
 		String change_password;
 		String confirm_password_id;
 		String update_button; 
-	
+	//selenium Testing 
 	@Given("^user navigates to url$")
 	public void user_navigates_to_url() throws Throwable 
 	{
