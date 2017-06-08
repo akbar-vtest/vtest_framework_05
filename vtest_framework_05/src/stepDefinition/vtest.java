@@ -398,7 +398,7 @@ public class vtest
 	    // driver = new FirefoxDriver(); 
 	    driver.manage().window().maximize();
 	}
-	
+	//selenium testing
 	
 	public void end()
 	{
